@@ -1,91 +1,89 @@
-# 👋 Hi there, I'm Snigdha Gogineni
-
-![Girl Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<h1 align="center">👋 Hi there, I'm <span style="color:#c084fc;">Snigdha Gogineni</span>!</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 😀 About Me
+## 😄 About Me
 
-I'm Snigdha Gogineni, a dedicated Data Engineer passionate about building scalable data solutions and transforming raw data into meaningful insights. With hands-on experience across consulting, analytics, and cloud-based engineering, I specialize in ETL pipelines, cloud data integration, and AI-powered platforms.
+🎯 I'm a passionate **Data Engineer** specializing in building robust, scalable data systems and intelligent pipelines. With strong experience across consulting and startups, I engineer end-to-end solutions that power AI, analytics, and business decision-making.  
+
+📍 Based in Leander, TX | 🌐 Open to global collaborations | 🧠 Love everything GenAI, ETL, and Cloud!
 
 ---
 
 ## 🚀 Professional Highlights
 
-- 🔄 Streamlined data pipelines supporting 10K+ API calls/month and reduced inference latency by 20% at Vettura LLC
-- 💾 Migrated 5+ TB data to Redshift with sub-second query performance at Deloitte Consulting
-- ⏱️ Built 50+ Airflow DAGs with custom operators, reducing recovery time from hours to 20 mins
-- 📈 Boosted campaign revenue by 25% through behavioral insights using Python + SQL
-- ☁️ Skilled in multi-cloud platforms: AWS, Azure, GCP, and Snowflake
+✨ Built a **cloud-based AI fine-tuning platform** using Hugging Face, Replicate API, and LoRA — serving 10K+ monthly requests  
+📦 Migrated 5+ TB of enterprise data to **AWS Redshift**, enabling sub-second BI queries across Deloitte units  
+⚙️ Managed 50+ **Airflow DAGs** reducing failure recovery from hours to 20 mins  
+🔁 Automated pipelines across AWS, Dataverse, SQL, and Azure, increasing SLA compliance to **95%**  
+📈 Delivered interactive dashboards using **Tableau, Power BI**, and Looker  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-**Languages & Tools**  
-C, C++, Python, SQL, MySQL, PostgreSQL, NoSQL, GitHub, Jira
-
-**Libraries & Frameworks**  
-Pandas, NumPy, Matplotlib, scikit-learn, PyTorch, TensorFlow, NLTK, spaCy
-
-**Cloud & Data Pipelines**  
-AWS (S3, Redshift, Glue, Athena), GCP, Azure Data Factory, Dataverse, SSIS, Apache Airflow, Snowflake, Bladebridge
-
-**Visualization**  
-Power BI, Tableau, Excel (Power Query, Pivot Tables)
-
-**GenAI & LLMs**  
-Hugging Face, Replicate API, LangChain, LoRA Fine-Tuning, Gradio, RAG Pipelines
+| 💻 Programming | 🧪 Libraries & ML | ☁️ Cloud & Data Pipelines | 📊 Visualization |
+|----------------|------------------|---------------------------|------------------|
+| Python, SQL, C++ | Pandas, Numpy, scikit-learn, PyTorch, TensorFlow, NLTK, spaCy | AWS (S3, Redshift, Glue, Athena), Azure Data Factory, Snowflake, Airflow, Dataverse | Power BI, Tableau, Excel (Power Query) |
+| Git, GitHub, Bash | LangChain, Hugging Face, Gradio, LoRA, RAG Pipelines | GCP, Apache Bladebridge | |
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-🎓 Master of Science in Computer Science - Data Science  
-*University of Texas at Dallas* (Jan 2023 – Dec 2024)
-
-🎓 Bachelor of Technology in Computer Science & Engineering  
-*VNR Vignana Jyothi Institute of Engineering and Technology* (Jul 2017 – May 2021)
+- 🎓 **MS in Computer Science (Data Science)** – University of Texas at Dallas (2023–2024)  
+- 🎓 **B.Tech in Computer Science** – VNR VJIET, India (2017–2021)
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience Timeline
 
-**Vettura LLC – Data Engineer** (Jan 2025 – Apr 2025)  
-- Built cloud-based AI model pipeline using Flask, Streamlit, Hugging Face, and LoRA  
-- Managed 10K+ monthly requests, multithreaded orchestration, and integrated real-time alerts via SendGrid and CloudWatch
+### 🛠️ **Vettura LLC** – Data Engineer *(Jan 2025 – Apr 2025)*
+- Designed AI-powered image generation pipeline (LoRA + Flask + Streamlit)
+- Improved throughput using multithreading & async orchestration
+- Monitored uptime via AWS CloudWatch, integrated SendGrid alerts
 
-**Deloitte Consulting – Data Engineer** (Jul 2021 – Dec 2022)  
-- Automated 20+ pipelines and migrated 5+ TB of data to AWS Redshift  
-- Reduced reprocessing hours and improved SLA compliance from 78% to 95%  
-- Built dynamic Airflow DAGs and Snowflake DBT models to reduce processing time by 2 hours
+### 🏢 **Deloitte Consulting** – Data Engineer *(2021–2022)*
+- Led AWS Redshift migration with parallel data validation
+- Engineered 50+ Airflow DAGs & optimized ETL pipelines
+- Designed Snowflake DBT models for efficient transformations
 
-**Alltronics – Data Analytics Intern** (Jun 2019 – Dec 2020)  
-- Developed Power BI dashboards and optimized event planning through MySQL-based insights
+### 📊 **Alltronics** – Data Analytics Intern *(2019–2020)*
+- Created dynamic Power BI dashboards using Dataverse
+- Improved event planning through MySQL-backed insights
 
-**Mittal Technologies – Data Analytics Intern** (May 2018 – Dec 2018)  
-- Conducted behavior analysis using Google Analytics and Python  
-- Built real-time analytics dashboard for performance monitoring
+### 📉 **Mittal Technologies** – Data Analytics Intern *(2018)*
+- Analyzed user flows via Python & Google Analytics
+- Deployed lightweight dashboards for real-time campaign tracking
 
 ---
 
-## 📊 Key Projects
+## 🌟 Notable Projects
 
-- **Automated News Analysis & Insights** – Built an NLP pipeline with Python, PostgreSQL, NLTK, and SpaCy  
-- **GenAI Model Tuning Platform** – Designed end-to-end ML deployment stack using LoRA, Streamlit, and Replicate API  
+- 📰 **Automated News Insight Engine** – Python ETL pipeline with NLP (NLTK + SpaCy), PostgreSQL for 5K+ articles  
+- 🧠 **GenAI Tuning Platform** – LoRA-based image generation with secured multi-user pipeline  
+- 📈 **Interactive Dashboards** – CXO-level dashboards for real-time decision making  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Snigdha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhagogineni&layout=compact&theme=radical" width="330"/>
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Let's Connect
 
-[📧 Email](mailto:snigdhagogineni14@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/snigdha-gogineni-a47494180/) | [💻 GitHub](https://github.com/snigdhagogineni)
+- 📧 [Email](mailto:snigdhagogineni14@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/snigdha-gogineni-a47494180/)
+- 💻 [GitHub](https://github.com/snigdhagogineni)
 
 ---
 
-✨ Thanks for visiting! Happy Building! ✨
+<h3 align="center">✨ Thanks for visiting — Keep exploring & building! ✨</h3>
