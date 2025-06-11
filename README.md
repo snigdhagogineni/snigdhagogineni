@@ -1,89 +1,112 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#c084fc;">Snigdha Gogineni</span>!</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#a855f7;">Snigdha Gogineni</span>!</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72798&center=true&vCenter=true&width=500&lines=Data+Engineer+%7C+Cloud+Native+%7C+GenAI+%F0%9F%92%BB;ETL+Pipelines+%7C+LLM+Integration+%7C+NLP+Expert+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 ---
 
-## 😄 About Me
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🔥 Welcome to my GitHub — Let's build intelligent, scalable pipelines and GenAI apps together! 🚀
+</marquee>
 
-🎯 I'm a passionate **Data Engineer** specializing in building robust, scalable data systems and intelligent pipelines. With strong experience across consulting and startups, I engineer end-to-end solutions that power AI, analytics, and business decision-making.  
+---
 
-📍 Based in Leander, TX | 🌐 Open to global collaborations | 🧠 Love everything GenAI, ETL, and Cloud!
+## 😀 About Me
+
+I'm **Snigdha Gogineni**, a passionate and performance-driven Data Engineer. I love building robust data pipelines, integrating GenAI with cloud infrastructure, and optimizing ETL workflows to make data work smarter for businesses.
 
 ---
 
 ## 🚀 Professional Highlights
 
-✨ Built a **cloud-based AI fine-tuning platform** using Hugging Face, Replicate API, and LoRA — serving 10K+ monthly requests  
-📦 Migrated 5+ TB of enterprise data to **AWS Redshift**, enabling sub-second BI queries across Deloitte units  
-⚙️ Managed 50+ **Airflow DAGs** reducing failure recovery from hours to 20 mins  
-🔁 Automated pipelines across AWS, Dataverse, SQL, and Azure, increasing SLA compliance to **95%**  
-📈 Delivered interactive dashboards using **Tableau, Power BI**, and Looker  
+✨ Built a scalable GenAI model tuning pipeline (LoRA + HuggingFace) with 10K+ monthly calls  
+📊 Migrated 5+ TB to AWS Redshift with sub-second BI query performance  
+⚙️ Designed 50+ Airflow DAGs with dynamic operators  
+📈 Improved campaign revenue by 25% through data-driven insights  
+☁️ Skilled across AWS, Azure, GCP, and Snowflake ecosystems  
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-| 💻 Programming | 🧪 Libraries & ML | ☁️ Cloud & Data Pipelines | 📊 Visualization |
-|----------------|------------------|---------------------------|------------------|
-| Python, SQL, C++ | Pandas, Numpy, scikit-learn, PyTorch, TensorFlow, NLTK, spaCy | AWS (S3, Redshift, Glue, Athena), Azure Data Factory, Snowflake, Airflow, Dataverse | Power BI, Tableau, Excel (Power Query) |
-| Git, GitHub, Bash | LangChain, Hugging Face, Gradio, LoRA, RAG Pipelines | GCP, Apache Bladebridge | |
+| 💻 Languages       | ⚙️ Frameworks & Tools            | ☁️ Cloud & Pipelines                        | 📊 Visualization |
+|--------------------|----------------------------------|---------------------------------------------|------------------|
+| Python, SQL, C++   | Pandas, NumPy, Scikit-Learn, spaCy | AWS (S3, Glue, Redshift), Airflow, Snowflake | Power BI, Tableau |
+| Git, GitHub, Bash  | TensorFlow, PyTorch, LangChain   | Azure Data Factory, GCP, Dataverse          | Excel, Looker     |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **MS in Computer Science (Data Science)** – University of Texas at Dallas (2023–2024)  
+- 🎓 **M.S. in Computer Science (Data Science)** – University of Texas at Dallas (2023–2024)  
 - 🎓 **B.Tech in Computer Science** – VNR VJIET, India (2017–2021)
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Work Experience
 
-### 🛠️ **Vettura LLC** – Data Engineer *(Jan 2025 – Apr 2025)*
-- Designed AI-powered image generation pipeline (LoRA + Flask + Streamlit)
-- Improved throughput using multithreading & async orchestration
-- Monitored uptime via AWS CloudWatch, integrated SendGrid alerts
+<details>
+  <summary><b>🧠 Vettura LLC – Data Engineer (Jan 2025 – Apr 2025)</b></summary>
+  <ul>
+    <li>Designed GenAI model orchestration with Flask, Streamlit, HuggingFace, and LoRA</li>
+    <li>Improved inference latency by 20% using multithreading and async patterns</li>
+    <li>Enabled secure access and real-time alerts with SendGrid + CloudWatch</li>
+  </ul>
+</details>
 
-### 🏢 **Deloitte Consulting** – Data Engineer *(2021–2022)*
-- Led AWS Redshift migration with parallel data validation
-- Engineered 50+ Airflow DAGs & optimized ETL pipelines
-- Designed Snowflake DBT models for efficient transformations
+<details>
+  <summary><b>🏢 Deloitte Consulting – Data Engineer (2021–2022)</b></summary>
+  <ul>
+    <li>Migrated data to AWS Redshift & automated pipelines with Airflow</li>
+    <li>Improved SLA compliance from 78% to 95%</li>
+    <li>Built Snowflake DBT models reducing ETL time by 2+ hours daily</li>
+  </ul>
+</details>
 
-### 📊 **Alltronics** – Data Analytics Intern *(2019–2020)*
-- Created dynamic Power BI dashboards using Dataverse
-- Improved event planning through MySQL-backed insights
-
-### 📉 **Mittal Technologies** – Data Analytics Intern *(2018)*
-- Analyzed user flows via Python & Google Analytics
-- Deployed lightweight dashboards for real-time campaign tracking
+<details>
+  <summary><b>📊 Alltronics – Data Analytics Intern (2019–2020)</b></summary>
+  <ul>
+    <li>Created Power BI dashboards with Dataverse insights</li>
+    <li>Enhanced event planning logistics by 20% with MySQL data models</li>
+  </ul>
+</details>
 
 ---
 
-## 🌟 Notable Projects
+## 🧪 Key Projects
 
-- 📰 **Automated News Insight Engine** – Python ETL pipeline with NLP (NLTK + SpaCy), PostgreSQL for 5K+ articles  
-- 🧠 **GenAI Tuning Platform** – LoRA-based image generation with secured multi-user pipeline  
-- 📈 **Interactive Dashboards** – CXO-level dashboards for real-time decision making  
+<details>
+  <summary><b>📡 Automated News Insight Engine</b></summary>
+  <p>NLP pipeline in Python + PostgreSQL with NLTK & spaCy to process 5K+ RSS articles with 30% processing optimization.</p>
+</details>
+
+<details>
+  <summary><b>🧬 GenAI Tuning Platform</b></summary>
+  <p>End-to-end AI model deployment pipeline built using LoRA, Replicate API, and Gradio for real-time image generation.</p>
+</details>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhagogineni&layout=compact&theme=radical" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhagogineni&theme=tokyonight" width="400"/>
 </p>
 
 ---
 
 ## 🌐 Let's Connect
 
-- 📧 [Email](mailto:snigdhagogineni14@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/snigdha-gogineni-a47494180/)
+- 📧 [Email Me](mailto:snigdhagogineni14@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/snigdha-gogineni-a47494180/)  
 - 💻 [GitHub](https://github.com/snigdhagogineni)
 
 ---
 
-<h3 align="center">✨ Thanks for visiting — Keep exploring & building! ✨</h3>
+<h3 align="center">✨ Thank you for visiting my profile! Let's innovate together ✨</h3>
