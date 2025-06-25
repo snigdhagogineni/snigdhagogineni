@@ -138,16 +138,14 @@ I’m more than my code:
 
 <p align="center">
   <a href="mailto:snigdhagogineni14@gmail.com" target="_blank">
-    <img height="40" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/snigdha-gogineni-a47494180/" target="_blank">
-    <img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/snigdhagogineni" target="_blank">
-    <img height="40" src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-snigdhagogineni-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<h3 align="center"><strong>🚀 Let’s turn bold ideas and raw data into something unforgettable.</strong></h3>
