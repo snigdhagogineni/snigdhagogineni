@@ -16,10 +16,8 @@
   <img src="https://img.shields.io/badge/Snowflake-%2300C7E5.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
 
-<h4 align="center">"Turning raw data into real impact — one pipeline at a time." 💡</h4>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=7C3AED&width=700&lines=Let%27s+collaborate+on+cloud-native+GenAI+apps!;Open+to+collabs%2C+freelance+%26+cool+data+projects!;Data+is+beautiful+when+it+flows+right." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=7C3AED&center=true&vCenter=true&width=700&lines=Let%27s+collaborate+on+cloud-native+GenAI+apps!;Open+to+cool+data+projects+%26+LLM+workflows!;Turning+data+into+intelligence+is+my+thing." />
 </p>
 
 ---
@@ -37,29 +35,6 @@ Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Enginee
 - ⚙️ Automated 50+ Airflow DAGs for complex pipeline orchestration  
 - 📊 Achieved 25% revenue boost by surfacing actionable data insights  
 - ☁️ Hands-on with AWS, Azure, GCP, and modern data stacks (Snowflake, ADF, DBT)
-
----
-
-## 🛠️ Tech I Love Working With
-
-- 🐍 Python • 🧠 HuggingFace • 🛠️ Airflow • ☁️ AWS/GCP/Azure  
-- 📦 Snowflake • 🔗 LangChain • 🖼️ Streamlit • 🔍 spaCy/NLTK  
-- 📊 Power BI, Tableau • ⚙️ DBT, Redshift  
-
----
-
-## 🔧 Currently Working On
-
-- 🧬 Fine-tuning multi-modal GenAI pipelines with LoRA & AWS Bedrock  
-- ⛓️ Integrating LangChain RAG pipelines for enterprise insights  
-- 📚 Writing a blog on “How to Build a Scalable Data Lake in AWS”  
-
----
-
-## 🧭 My Data Philosophy
-
-> I believe great data systems are invisible — they *just work*.  
-> Every ETL job, model, or API should serve a purpose: making decision-making faster, smarter, and fairer.  
 
 ---
 
@@ -123,16 +98,19 @@ Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Enginee
 
 ---
 
-## 😄 Fun Facts About Me
+## 🎯 My Data Philosophy
 
-<details>
-  <summary>🙃 Hidden Secrets</summary>
-  <ul>
-    <li>I once built a mini chatbot just to remind me to hydrate during data pre-processing 🧃</li>
-    <li>Love Bollywood, startup podcasts, and experimenting with prompt engineering 🎬</li>
-    <li>If I wasn’t a data engineer, I’d probably be running a food truck with AI-driven dynamic pricing 🍜</li>
-  </ul>
-</details>
+> I believe great data systems are invisible — they *just work*.  
+> Every ETL job, model, or API should serve a purpose: making decision-making faster, smarter, and fairer.  
+
+---
+
+## 🌱 Fun Outside Tech
+
+- 🏏 Cricket addict, especially weekend games that go on forever  
+- 🎶 Music explorer — from Carnatic to EDM  
+- 🧳 Love spontaneous road trips with great food & better company  
+- 🎬 Lowkey movie critic (with strong opinions on soundtracks 😄)
 
 ---
 
@@ -141,10 +119,6 @@ Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Enginee
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhagogineni&theme=tokyonight" width="400"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=snigdhagogineni&label=Profile+Visits&color=7C3AED&style=flat" alt="Profile Views"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/snigdhagogineni/snigdhagogineni/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
