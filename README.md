@@ -124,27 +124,27 @@ I’m more than my code:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhagogineni&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snigdhagogineni&show_icons=true&theme=radical&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhagogineni&layout=compact&theme=radical&hide_border=true" width="47%" />
 </p>
 
----
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snigdhagogineni&theme=gruvbox&column=6&margin-w=10&no-frame=true" />
+</p>
 
 ---
 
 ## 🔗 Let’s Connect
 
 <p align="center">
-  <a href="mailto:snigdhagogineni14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/snigdha-gogineni-a47494180/">
-    <img src="https://img.shields.io/badge/LinkedIn-View-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/snigdhagogineni">
-    <img src="https://img.shields.io/badge/GitHub-Explore-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:snigdhagogineni14@gmail.com" target="_blank">
+    <img height="40" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/snigdha-gogineni-a47494180/" target="_blank">
+    <img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/snigdhagogineni" target="_blank">
+    <img height="40" src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub"/>
   </a>
 </p>
 
