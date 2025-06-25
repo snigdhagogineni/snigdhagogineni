@@ -1,115 +1,123 @@
-<h1 align="center">
-  👋🏼 Hey there, I'm <span style="color:#a855f7; font-weight:bold;">Snigdha Gogineni</span>
+<h1 align="center" style="font-weight:bold;">
+  Hey there, I'm <span style="color:#a855f7;">Snigdha Gogineni</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72798&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+GenAI+Innovator+%7C+Cloud-Native+Thinker;I+build+LLM+workflows+%7C+ETL+Pipelines+%7C+Scalable+Data+Apps;Let%27s+Turn+Raw+Data+into+Real+Impact+%F0%9F%92%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72798&center=true&vCenter=true&width=850&lines=Data+Engineer+%7C+GenAI+Innovator+%7C+Cloud-Native+Thinker;Building+LLM+Pipelines+%7C+Optimizing+ETL+Workflows+%7C+Delivering+Real-Time+Data+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 </p>
 
+<!-- Tech Stack Highlights -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-%2300C7E5.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-00C7E5?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1A202C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Engineer** passionate about scalable data architectures, GenAI pipelines, and cloud-native systems. Whether it's optimizing ETL workflows, tuning LLMs, or automating data flows in production—I'm always building with a problem-solving mindset.
-
----
-
-## 🚀 Highlights
-
-- 🔁 Built scalable GenAI tuning pipeline with LoRA + Hugging Face for 10K+ monthly requests  
-- 📦 Migrated 5+ TB of data to AWS Redshift with sub-second BI queries  
-- ⚙️ Automated 50+ Airflow DAGs for complex pipeline orchestration  
-- 📊 Achieved 25% revenue boost by surfacing actionable data insights  
-- ☁️ Hands-on with AWS, Azure, GCP, and modern data stacks (Snowflake, ADF, DBT)
+I’m **Snigdha Gogineni**, a performance-driven **Data Engineer** passionate about **GenAI integration**, **cloud-native data systems**, and building high-impact solutions.  
+From designing robust **ETL workflows** to deploying **LLM-driven platforms**, I bring together creativity and precision to make data **truly work for businesses**.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🔥 Impact Highlights
 
-| 💻 Languages       | ⚙️ Frameworks & Tools             | ☁️ Cloud / DataOps                           | 📊 Viz & Reporting     |
-|--------------------|----------------------------------|---------------------------------------------|------------------------|
-| Python, SQL, C++   | Pandas, NumPy, Scikit-Learn, spaCy | AWS (S3, Glue, Redshift), Airflow, DBT     | Power BI, Tableau      |
-| Bash, Git, GitHub  | TensorFlow, PyTorch, LangChain    | Azure Data Factory, GCP, Snowflake, Dataverse | Excel, Looker        |
+- Designed a GenAI tuning pipeline using **LoRA + Hugging Face** with **10K+ monthly hits**
+- Migrated **5+ TB** of data to **AWS Redshift** with sub-second BI performance  
+- Built **50+ dynamic Airflow DAGs** for automated orchestration across pipelines  
+- Improved campaign revenue by **25%** using production-grade insight models  
+- Worked across **AWS, Azure, GCP**, and modern stacks like **DBT, Snowflake, and LangChain**
+
+---
+
+## 🧠 Tech Toolbox
+
+| Languages        | Libraries & Tools                        | Cloud & DataOps                                | Analytics & Viz     |
+|------------------|------------------------------------------|------------------------------------------------|----------------------|
+| Python, SQL, C++ | Pandas, NumPy, Scikit-Learn, spaCy       | AWS (S3, Glue, Lambda, Redshift), Airflow      | Power BI, Tableau    |
+| Bash, Git        | TensorFlow, PyTorch, FastAPI, Streamlit  | Azure Data Factory, Snowflake, GCP, DBT, LangChain | Excel, Looker     |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **M.S. in Computer Science (Data Science)** — University of Texas at Dallas (2023–2024)  
-- 🎓 **B.Tech in Computer Science** — VNR VJIET, India (2017–2021)
+- **M.S. in Computer Science (Data Science)** – University of Texas at Dallas (2023–2024)  
+- **B.Tech in Computer Science** – VNR VJIET, India (2017–2021)
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 <details>
-  <summary><b>🧠 Vettura LLC – Data Engineer (Jan 2025 – Apr 2025)</b></summary>
+  <summary><strong>Vettura LLC – Data Engineer (Jan 2025 – Apr 2025)</strong></summary>
   <ul>
-    <li>Orchestrated GenAI workflows using Flask, Streamlit, and Hugging Face</li>
-    <li>Reduced inference latency by 20% using async + multithreading</li>
-    <li>Enabled secure access and alerting via SendGrid and CloudWatch</li>
+    <li>Developed GenAI pipelines using Flask, Streamlit, Hugging Face & LoRA</li>
+    <li>Optimized latency by 20% via async + multithreading</li>
+    <li>Integrated secure access, logging, and alerting with SendGrid & CloudWatch</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🏢 Deloitte – Data Engineer (2021–2022)</b></summary>
+  <summary><strong>Deloitte – Data Engineer (2021–2022)</strong></summary>
   <ul>
-    <li>Migrated legacy systems to AWS Redshift and automated workflows via Airflow</li>
-    <li>Boosted SLA compliance from 78% → 95%</li>
-    <li>Built optimized Snowflake DBT models to cut ETL time by 2+ hours/day</li>
+    <li>Migrated retail workloads to AWS Redshift with Airflow scheduling</li>
+    <li>Raised SLA compliance from 78% to 95% by automating legacy tasks</li>
+    <li>Built reusable DBT models reducing daily ETL latency by 2+ hours</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>📊 Alltronics – Data Analytics Intern (2019–2020)</b></summary>
+  <summary><strong>Alltronics – Data Analytics Intern (2019–2020)</strong></summary>
   <ul>
-    <li>Built Power BI dashboards using Dataverse & MySQL backend</li>
-    <li>Improved event operations by 20% using data-driven models</li>
+    <li>Created Dataverse-connected dashboards in Power BI</li>
+    <li>Streamlined event logistics with MySQL data modeling (20% gain)</li>
   </ul>
 </details>
 
 ---
 
-## 🧪 Featured Projects
+## 🚀 Featured Projects
 
 <details>
-  <summary><b>📡 News Insight Engine (NLP)</b></summary>
-  <p>Python + PostgreSQL NLP pipeline (spaCy, NLTK) to process 5K+ articles with 30% faster ingestion & topic modeling.</p>
+  <summary><strong>📡 News Insight Engine (NLP)</strong></summary>
+  <p>End-to-end NLP engine using NLTK + spaCy on 5K+ articles, optimized ingestion with PostgreSQL and fast topic modeling.</p>
 </details>
 
 <details>
-  <summary><b>🧬 GenAI Tuning Platform</b></summary>
-  <p>LoRA-based model fine-tuning pipeline using Replicate API, Gradio UI, and Hugging Face with secure backend integration.</p>
+  <summary><strong>🧬 GenAI Tuning Platform</strong></summary>
+  <p>LoRA-based GenAI fine-tuning system using Replicate API, Hugging Face, and Gradio UI — powering personalized AI image generation.</p>
 </details>
 
 ---
 
-## 🎯 My Data Philosophy
+## 💡 Philosophy
 
-> I believe great data systems are invisible — they *just work*.  
-> Every ETL job, model, or API should serve a purpose: making decision-making faster, smarter, and fairer.  
+> **“Good systems feel like magic. Great systems feel like nothing at all.”**  
+> My mission is to build platforms that are **invisible, intelligent, and impactful** — where data pipelines quietly power business decisions at scale.
 
 ---
 
-## 🌱 Outside the Cloud...
+## 🎨 Outside the Cloud...
 
-- 💪 Gym time is my daily reboot — discipline & deadlifts!
-- 🎬 Tollywood fan for life — especially the music and dance numbers
-- 🎧 Always exploring indie playlists and chill beats
-- ✏️ I love sketching and experimenting with digital drawing
-- 📸 Content creation is my creative playground — ideas, edits, and aesthetics!
+I’m more than my code:
+
+- **Fitness-First:** Gym is my daily reset  
+- **Cinema Soul:** Big-time Tollywood fan (yes, I know all the hits)  
+- **Audio Addict:** From indie beats to film scores, music fuels my flow  
+- **Creative Mind:** I draw, sketch, and bring ideas to life in content  
+- **Digital Creator:** Storyboards, edits, reels — content is my second playground  
 
 ---
 
@@ -122,14 +130,14 @@ Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Enginee
 
 ---
 
-## 🌐 Let's Connect
+## 🔗 Let’s Connect
 
 <p align="center">
-  <a href="mailto:snigdhagogineni14@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/snigdha-gogineni-a47494180/"><img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/snigdhagogineni"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:snigdhagogineni14@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/snigdha-gogineni-a47494180/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/snigdhagogineni"><img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for stopping by — Let’s build something brilliant together! ✨</h3>
+<h3 align="center"><strong>Let’s turn data into possibility 💡</strong></h3>
