@@ -1,7 +1,9 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#a855f7;">Snigdha Gogineni</span> 👋</h1>
+<h1 align="center">
+  👋🏼 Hey there, I'm <span style="color:#a855f7; font-weight:bold;">Snigdha Gogineni</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F72798&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Cloud+Native+%7C+GenAI+Explorer+🧠;ETL+Pipelines+%7C+LLM+Apps+%7C+NLP+Solutions+🔍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F72798&center=true&vCenter=true&width=700&lines=Data+Engineer+%7C+GenAI+Innovator+%7C+Cloud-Native+Thinker;I+build+LLM+workflows+%7C+ETL+Pipelines+%7C+Scalable+Data+Apps;Let%27s+Turn+Raw+Data+into+Real+Impact+%F0%9F%92%AF" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +16,6 @@
   <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-%2300C7E5.svg?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=7C3AED&center=true&vCenter=true&width=700&lines=Let%27s+collaborate+on+cloud-native+GenAI+apps!;Open+to+cool+data+projects+%26+LLM+workflows!;Turning+data+into+intelligence+is+my+thing." />
 </p>
 
 ---
@@ -105,12 +103,13 @@ Hi! I’m **Snigdha Gogineni**, a creative and performance-driven **Data Enginee
 
 ---
 
-## 🌱 Fun Outside Tech
+## 🌱 Outside the Cloud...
 
-- 🏏 Cricket addict, especially weekend games that go on forever  
-- 🎶 Music explorer — from Carnatic to EDM  
-- 🧳 Love spontaneous road trips with great food & better company  
-- 🎬 Lowkey movie critic (with strong opinions on soundtracks 😄)
+- 💪 Gym time is my daily reboot — discipline & deadlifts!
+- 🎬 Tollywood fan for life — especially the music and dance numbers
+- 🎧 Always exploring indie playlists and chill beats
+- ✏️ I love sketching and experimenting with digital drawing
+- 📸 Content creation is my creative playground — ideas, edits, and aesthetics!
 
 ---
 
